@@ -1,0 +1,36 @@
+#wrapper {
+    width: 900px;
+    height: 1500px;
+    height: 150px;
+}
+#l {
+    width: 220px;
+    float: left;
+}
+.left {
+    width: 200px;
+    height: 150px;
+    border: solid black 1px;
+    padding: 10px;
+}
+.left2 {
+    width: 200px;
+    height: 150px;
+    border: solid black 1px;
+    padding: 10px;
+    display: none;
+}
+.thisone {
+    width: 200px;
+    margin-top: 10px;
+    height: 150px;
+    border: solid black 1px;
+    padding: 10px;
+}
+.right {
+    width: 560px;
+    height: auto !important;
+    padding: 50px;
+    border: solid blue 1px;
+    float: right;
+}
